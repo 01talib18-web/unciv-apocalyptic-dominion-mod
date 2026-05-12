@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wasteland Dominion",
+    "leaderName": "Overlord Vex",
+    "adjective": "Dominion",
+    "color": ["#8B0000", "#FFD700"],
+    "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Outpost Zeta", "Forge Spire"],
+    "startBias": ["Desert", "Plains"],
+    "uniques": [
+      "+25% Growth in all cities",
+      "Captured enemy workers provide double Production",
+      "May convert defeated military units into Slave Laborers",
+      "+15% Strength when attacking cities"
+    ],
+    "intro": "The old world burned. From its ashes, we rise through iron will and flesh. Join or serve.",
+    "declaringWar": "Your lands will fuel our breeding programs and labor pools. Resistance is futile.",
+    "attacked": "You challenge the Dominion? Your survivors will labor in our facilities."
+  }
+]

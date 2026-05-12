@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Slave Pen",
+    "cost": 80,
+    "maintenance": 1,
+    "uniques": ["+2 Production from every 2 citizens", "Provides [1] [Slave Labor]"]
+  },
+  {
+    "name": "Breeding Facility",
+    "cost": 120,
+    "maintenance": 2,
+    "uniques": ["+30% Growth", "+1 Food from every citizen", "May convert population into specialized laborers"]
+  },
+  {
+    "name": "Raider Camp",
+    "cost": 60,
+    "maintenance": 1,
+    "uniques": ["+15% Production toward military units", "+10% pillage rewards in this city"]
+  },
+  {
+    "name": "Pleasure Dome",
+    "cost": 150,
+    "maintenance": 3,
+    "uniques": ["+4 Culture", "+3 Happiness", "Reduces unhappiness from domination policies"]
+  },
+  {
+    "name": "Enslavement Chamber",
+    "cost": 100,
+    "maintenance": 2,
+    "uniques": ["Enemy units defeated in this city are converted to Slave Laborers", "+5% Production from captured units"]
+  }
+]

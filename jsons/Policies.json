@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tyranny Doctrine",
+    "uniques": ["+15% Production toward military units", "+10% Growth from captured cities", "Enables Slavery policies"],
+    "requiredPolicies": ["Oligarchy"]
+  },
+  {
+    "name": "Breeding Programs",
+    "uniques": ["+20% Growth", "+5% Food from every citizen", "Unlocks advanced population management"],
+    "requiredPolicies": ["Tyranny Doctrine"]
+  },
+  {
+    "name": "Raider Code",
+    "uniques": ["+25% pillage reward", "Raiding units gain experience faster", "Reduces maintenance for military units"],
+    "requiredPolicies": ["Tyranny Doctrine"]
+  }
+]

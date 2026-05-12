@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Scavenger",
+    "unitType": "Civilian",
+    "cost": 30,
+    "movement": 2,
+    "uniques": ["Can enter tiles with enemy units", "Ignores terrain movement cost"]
+  },
+  {
+    "name": "Raider",
+    "unitType": "Melee",
+    "cost": 40,
+    "strength": 18,
+    "movement": 2,
+    "uniques": ["+50% pillage reward", "Can pillage without movement cost"]
+  },
+  {
+    "name": "Enforcer",
+    "unitType": "Melee",
+    "cost": 60,
+    "strength": 28,
+    "movement": 2,
+    "uniques": ["May capture defeated enemies as Slave Laborers", "+10% Strength vs wounded units"]
+  },
+  {
+    "name": "Slave Laborer",
+    "unitType": "Civilian",
+    "cost": 25,
+    "movement": 1,
+    "uniques": ["+100% Production when working tiles", "Cannot be upgraded", "May be captured"]
+  },
+  {
+    "name": "Wasteland Raider",
+    "unitType": "Melee",
+    "cost": 50,
+    "strength": 22,
+    "movement": 3,
+    "uniques": ["+30% pillage reward", "Ignores enemy zone of control", "Can move after attacking"]
+  }
+]

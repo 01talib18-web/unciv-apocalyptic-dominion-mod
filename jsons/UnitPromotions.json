@@ -1,14 +1,7 @@
 [
-  {
-    "name": "Raider I",
-    "uniques": ["+10% Strength", "+25% pillage reward"]
-  },
-  {
-    "name": "Enforcer Training",
-    "uniques": ["+15% Strength vs wounded units", "May capture defeated enemies as Slave Laborers"]
-  },
-  {
-    "name": "Slave Driver",
-    "uniques": ["+20% Production from Slave Laborers in this city", "Reduces unhappiness from labor policies"]
-  }
+  {"name": "Raider I", "uniques": ["+10% Strength", "+25% pillage reward"]},
+  {"name": "Raider II", "uniques": ["+15% Strength", "+40% pillage reward", "Can move after attacking"]},
+  {"name": "Enforcer Training", "uniques": ["+15% Strength vs wounded units", "May capture defeated enemies as Slave Laborers"]},
+  {"name": "Slave Driver", "uniques": ["+20% Production from Slave Laborers in this city", "Reduces unhappiness from labor policies"]},
+  {"name": "Harem Guard", "uniques": ["+15% Strength when defending cities", "+5% Happiness in this city from cultural buildings"]}
 ]

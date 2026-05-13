@@ -1,10 +1,5 @@
 [
-  {
-    "name": "Raider Camp",
-    "uniques": ["+2 Production", "+10% Defense for units on this tile", "May be built on plains or desert"]
-  },
-  {
-    "name": "Labor Outpost",
-    "uniques": ["+3 Production from Slave Laborers working this tile", "+1 Food from adjacent tiles"]
-  }
+  {"name": "Raider Camp", "uniques": ["+2 Production", "+10% Defense for units on this tile", "May be built on plains or desert"]},
+  {"name": "Labor Outpost", "uniques": ["+3 Production from Slave Laborers working this tile", "+1 Food from adjacent tiles"]},
+  {"name": "Scavenger Pit", "uniques": ["+2 Food and +1 Production from scavenging ruined tiles", "May be built on any terrain"]}
 ]

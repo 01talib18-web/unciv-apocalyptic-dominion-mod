@@ -1,27 +1,9 @@
 [
-  {
-    "name": "Scavenging",
-    "cost": 60,
-    "uniques": ["Unlocks Scavenger unit and Raider Camp improvement"]
-  },
-  {
-    "name": "Raiding Tactics",
-    "cost": 120,
-    "uniques": ["+25% pillage reward for all units", "Unlocks Raider unit"]
-  },
-  {
-    "name": "Domination",
-    "cost": 200,
-    "uniques": ["+15% Strength when attacking cities", "Enables Enslavement Chamber and Tyranny policies"]
-  },
-  {
-    "name": "Breeding Programs",
-    "cost": 180,
-    "uniques": ["+30% Growth in all cities", "Unlocks Breeding Facility"]
-  },
-  {
-    "name": "Reclamation",
-    "cost": 300,
-    "uniques": ["+20% Production from all improved tiles", "May convert ruined or hostile terrain"]
-  }
+  {"name": "Scavenging", "cost": 60, "uniques": ["Unlocks Scavenger unit and Raider Camp improvement"]},
+  {"name": "Raiding Tactics", "cost": 120, "uniques": ["+25% pillage reward for all units", "Unlocks Raider and Wasteland Raider units"]},
+  {"name": "Domination", "cost": 200, "uniques": ["+15% Strength when attacking cities", "Enables Enslavement Chamber, Warlord Throne, and Tyranny policies"]},
+  {"name": "Breeding Programs", "cost": 180, "uniques": ["+30% Growth in all cities", "Unlocks Breeding Facility", "May convert population with happiness trade-off"]},
+  {"name": "Reclamation", "cost": 300, "uniques": ["+20% Production from all improved tiles", "May convert ruined or hostile terrain", "Unlocks Reclamation Center"]},
+  {"name": "Tyranny", "cost": 250, "uniques": ["+10% Strength and Production from all policies", "Reduces unhappiness from domination and slavery", "Unlocks Warlord Throne and advanced policies"]},
+  {"name": "Nuclear Rebirth", "cost": 400, "uniques": ["+30% Science and Production in all cities", "Enables late-game mega-structures and total reclamation"]}
 ]

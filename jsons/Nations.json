@@ -4,17 +4,35 @@
     "leaderName": "Overlord Vex",
     "adjective": "Dominion",
     "color": ["#8B0000", "#FFD700"],
-    "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Outpost Zeta", "Forge Spire", "Labor Nexus", "Reclamation Zone"],
+    "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Outpost Zeta", "Forge Spire", "Labor Nexus", "Reclamation Zone", "Pleasure Spire", "Warlord Keep"],
     "startBias": ["Desert", "Plains"],
-    "uniques": ["+25% Growth in all cities", "Captured enemy workers provide double Production", "May convert defeated military units into Slave Laborers", "+15% Strength when attacking cities"]
+    "uniques": ["+25% Growth in all cities", "Captured enemy workers provide double Production", "May convert defeated military units into Slave Laborers", "+15% Strength when attacking cities", "+10% Happiness from domination policies"]
   },
   {
     "name": "Iron Claws",
     "leaderName": "Warlord Karg",
     "adjective": "Claw",
     "color": ["#4B0082", "#FF4500"],
-    "cityNames": ["Ruin Spire", "Mutant Den", "Pillage Camp", "Thrall Pit", "Blood Forge"],
+    "cityNames": ["Ruin Spire", "Mutant Den", "Pillage Camp", "Thrall Pit", "Blood Forge", "Cannibal Hollow"],
     "startBias": ["Tundra", "Hill"],
-    "uniques": ["+20% Strength when attacking", "Raiding yields double Gold and Food", "All units ignore enemy zone of control"]
+    "uniques": ["+20% Strength when attacking", "Raiding yields double Gold and Food", "All units ignore enemy zone of control", "+15% Production from captured units"]
+  },
+  {
+    "name": "Cannibal Clans",
+    "leaderName": "Chieftain Gorr",
+    "adjective": "Cannibal",
+    "color": ["#3F2A1D", "#8B4513"],
+    "cityNames": ["Bone Pit", "Flesh Camp", "Scavenger Warren", "Hunger Hollow", "Blood Feast"],
+    "startBias": ["Forest", "Swamp"],
+    "uniques": ["+30% Strength vs wounded units", "Units heal by consuming defeated enemies", "+10% Growth from captured population"]
+  },
+  {
+    "name": "Survivor Enclaves",
+    "leaderName": "Elder Mira",
+    "adjective": "Enclave",
+    "color": ["#2F4F4F", "#98FB98"],
+    "cityNames": ["Vault 17", "Greenhouse Haven", "Last Stand", "Hope's End", "Reborn Spire"],
+    "startBias": ["Coast", "Mountain"],
+    "uniques": ["+20% Science and Culture", "+15% Defense in cities", "May convert hostile terrain to productive land"]
   }
 ]

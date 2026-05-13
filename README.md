@@ -1,26 +1,27 @@
-# Apocalyptic Dominion
+# Apocalyptic Dominion (Maximized Expansion)
 
-A detailed extension mod for Unciv introducing post-apocalyptic survival, raiding, and domination mechanics inspired by themes of nuclear aftermath, empire rebuilding through strength, population management, and moral choices between order and tyranny.
+The most extensive and detailed Unciv mod for post-apocalyptic survival, raiding, domination, slavery, breeding programs, harem management, and moral empire-building. This version maximizes adult-themed mechanics (abstracted into strategic systems) alongside deep gameplay expansion.
 
-## Features
-- New civilization: Wasteland Dominion with unique abilities focused on growth, captured labor, and combat advantages.
-- Custom units including raiders, enforcers, and specialized laborers.
-- Thematic buildings such as Slave Pens, Breeding Facilities, and Raider Camps providing unique yields and effects.
-- Expanded technology tree with Scavenging, Raiding Tactics, Domination, Breeding Programs, and Reclamation.
-- New policies reflecting tyranny, raiding, and population control strategies.
-- Unit promotions and tile improvements (Raider Camps, Labor Outposts).
-- Rich flavor text and city names evoking a harsh, rebuilt world.
+## Maximized Features
+- **4 Civilizations** with unique leaders, playstyles, and extensive flavor (Wasteland Dominion, Iron Claws, Cannibal Clans, Survivor Enclaves).
+- **12+ Custom Units** including raider variants, mutant brutes, enforcers, slave overseers, harem guards, and specialized laborers.
+- **12+ Thematic Buildings** (Slave Pens, Breeding Facilities, Pleasure Domes, Raider Camps, Labor Outposts, Warlord Thrones, Cannibal Dens, Reclamation Centers, etc.) with growth, production, happiness, and domination bonuses.
+- **Full Thematic Tech Tree** (Scavenging, Raiding Tactics, Domination, Breeding Programs, Reclamation, Tyranny, Nuclear Rebirth, etc.).
+- **Expanded Policy Branches** (Tyranny, Slavery, Harem Management, Raider Code, Reclamation Mandate) with trade-offs and late-game power.
+- **Unit Promotions** (Raider lines, Enforcer Training, Slave Driver, Harem Guard).
+- **Tile Improvements** (Raider Camps, Labor Outposts, Scavenger Pits, Ruined City scavenging).
+- **Rich Flavor Text** throughout — city names, unit/building descriptions, policy effects, and intro/war declarations that capture the brutal, choice-driven world of survival, domination, and rebuilding.
+
+## Adult-Themed Mechanics (Abstracted)
+- Population growth via "Breeding Programs" with happiness and control trade-offs.
+- Captured enemies converted to "Slave Laborers" or "Thralls" for massive production bonuses.
+- Policies and buildings that reward domination and labor management while managing unhappiness and moral decay.
+- "Harem" and "Pleasure" mechanics as culture, happiness, and specialist systems.
+- Raiding, pillaging, and enslavement as core strategic pillars.
 
 ## Installation
-1. In Unciv, go to Mods > Download mod from URL.
-2. Paste the repository URL: https://github.com/01talib18-web/unciv-apocalyptic-dominion-mod
-3. Download and enable the mod.
-4. Start a new game and select the Wasteland Dominion civilization (or use added content with other civs).
+1. In Unciv: Mods > Download mod from URL.
+2. Paste: https://github.com/01talib18-web/unciv-apocalyptic-dominion-mod
+3. Download, enable, and play.
 
-## Theme Note
-This mod explores mature themes of survival, domination, slavery, and rebuilding civilization in a post-nuclear world, abstracted into strategic mechanics. All content is designed for compatibility with Unciv's engine.
-
-## Credits
-Inspired by post-apocalyptic survival and choice-driven narratives. Built as a base for further expansion.
-
-For issues or contributions, please open an issue on this repository.
+This is the maximized version — the most complete post-apocalyptic domination and survival experience possible in Unciv. Further expansions (more civs, events, full base ruleset conversion) available on request.

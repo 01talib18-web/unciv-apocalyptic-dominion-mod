@@ -1,38 +1,11 @@
 [
-  {
-    "name": "Ancient",
-    "researchAgreementCost": 200
-  },
-  {
-    "name": "Classical",
-    "researchAgreementCost": 300
-  },
-  {
-    "name": "Medieval",
-    "researchAgreementCost": 400
-  },
-  {
-    "name": "Renaissance",
-    "researchAgreementCost": 500
-  },
-  {
-    "name": "Industrial",
-    "researchAgreementCost": 600
-  },
-  {
-    "name": "Modern",
-    "researchAgreementCost": 700
-  },
-  {
-    "name": "Atomic",
-    "researchAgreementCost": 800
-  },
-  {
-    "name": "Information",
-    "researchAgreementCost": 900
-  },
-  {
-    "name": "Future",
-    "researchAgreementCost": 1000
-  }
+  {"name": "Ancient"},
+  {"name": "Classical"},
+  {"name": "Medieval"},
+  {"name": "Renaissance"},
+  {"name": "Industrial"},
+  {"name": "Modern"},
+  {"name": "Atomic"},
+  {"name": "Information"},
+  {"name": "Future"}
 ]

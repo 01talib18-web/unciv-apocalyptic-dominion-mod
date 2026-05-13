@@ -1,37 +1,7 @@
 [
   {
     "name": "Tyranny Doctrine",
-    "uniques": ["+15% Production toward military units", "+10% Growth from captured cities", "Enables Slavery policies"],
+    "uniques": ["+15% Production toward military units"],
     "requiredPolicies": ["Oligarchy"]
-  },
-  {
-    "name": "Breeding Programs",
-    "uniques": ["+20% Growth", "+5% Food from every citizen", "Unlocks advanced population management"],
-    "requiredPolicies": ["Tyranny Doctrine"]
-  },
-  {
-    "name": "Raider Code",
-    "uniques": ["+25% pillage reward", "Raiding units gain experience faster", "Reduces maintenance for military units"],
-    "requiredPolicies": ["Tyranny Doctrine"]
-  },
-  {
-    "name": "Reclamation Mandate",
-    "uniques": ["+15% Production from all tiles", "May convert ruined terrain to productive land"],
-    "requiredPolicies": ["Tyranny Doctrine"]
-  },
-  {
-    "name": "Harem Management",
-    "uniques": ["+15% Growth and +10% Culture from Pleasure Domes and Grand Harems", "+5% Happiness from population"],
-    "requiredPolicies": ["Breeding Programs"]
-  },
-  {
-    "name": "Slave Training Academy",
-    "uniques": ["+25% Production from all Slave Laborers empire-wide", "Enables Master Enforcer and Slave Driver promotions"],
-    "requiredPolicies": ["Tyranny Doctrine"]
-  },
-  {
-    "name": "Total Domination",
-    "uniques": ["+20% Strength empire-wide", "+10% Production from captured units", "Victory bonuses for conquest"],
-    "requiredPolicies": ["Tyranny Doctrine", "Raider Code"]
   }
 ]

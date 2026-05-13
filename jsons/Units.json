@@ -4,7 +4,7 @@
     "unitType": "Civilian",
     "cost": 30,
     "movement": 2,
-    "uniques": ["Can enter tiles with enemy units", "Ignores terrain movement cost", "+1 sight"]
+    "uniques": ["Can enter tiles with enemy units"]
   },
   {
     "name": "Raider",
@@ -12,7 +12,7 @@
     "cost": 40,
     "strength": 18,
     "movement": 2,
-    "uniques": ["+50% pillage reward", "Can pillage without movement cost"]
+    "uniques": ["+50% pillage reward"]
   },
   {
     "name": "Enforcer",
@@ -20,54 +20,13 @@
     "cost": 60,
     "strength": 28,
     "movement": 2,
-    "uniques": ["May capture defeated enemies as Slave Laborers", "+10% Strength vs wounded units"]
+    "uniques": ["May capture defeated enemies as Slave Laborers"]
   },
   {
     "name": "Slave Laborer",
     "unitType": "Civilian",
     "cost": 25,
     "movement": 1,
-    "uniques": ["+100% Production when working tiles", "Cannot be upgraded"]
-  },
-  {
-    "name": "Wasteland Raider",
-    "unitType": "Melee",
-    "cost": 50,
-    "strength": 22,
-    "movement": 3,
-    "uniques": ["+30% pillage reward", "Ignores enemy zone of control", "Can move after attacking"]
-  },
-  {
-    "name": "Slave Overseer",
-    "unitType": "Ranged",
-    "cost": 70,
-    "strength": 15,
-    "movement": 2,
-    "range": 1,
-    "uniques": ["+15% Production from Slave Laborers in range", "May capture civilian units"]
-  },
-  {
-    "name": "Mobile Fortress",
-    "unitType": "Siege",
-    "cost": 150,
-    "strength": 40,
-    "movement": 2,
-    "uniques": ["+30% Strength vs cities", "Bombard strength 30", "May carry Slave Laborers"]
-  },
-  {
-    "name": "Drone Swarm",
-    "unitType": "Ranged",
-    "cost": 90,
-    "strength": 18,
-    "movement": 4,
-    "range": 2,
-    "uniques": ["+20% Strength vs air units", "Can attack twice per turn"]
-  },
-  {
-    "name": "Master Breeder (Great Person)",
-    "unitType": "Civilian",
-    "cost": 200,
-    "movement": 2,
-    "uniques": ["+50% Growth in this city for 10 turns", "May convert population into elite specialists"]
+    "uniques": ["+100% Production when working tiles"]
   }
 ]

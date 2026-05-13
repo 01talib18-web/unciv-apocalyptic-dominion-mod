@@ -1,17 +1,5 @@
 [
-  {
-    "name": "Domination",
-    "victoryScreenHeader": "Domination Victory",
-    "victoryString": "has achieved a Domination Victory!"
-  },
-  {
-    "name": "Cultural",
-    "victoryScreenHeader": "Cultural Victory",
-    "victoryString": "has achieved a Cultural Victory!"
-  },
-  {
-    "name": "Scientific",
-    "victoryScreenHeader": "Scientific Victory",
-    "victoryString": "has achieved a Scientific Victory!"
-  }
+  {"name": "Domination"},
+  {"name": "Cultural"},
+  {"name": "Scientific"}
 ]

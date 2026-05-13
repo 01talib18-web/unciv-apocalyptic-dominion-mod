@@ -3,54 +3,18 @@
     "name": "Slave Pen",
     "cost": 80,
     "maintenance": 1,
-    "uniques": ["+2 Production from every 2 citizens", "Provides [1] [Slave Labor]"]
+    "uniques": ["+2 Production from every 2 citizens"]
   },
   {
     "name": "Breeding Facility",
     "cost": 120,
     "maintenance": 2,
-    "uniques": ["+30% Growth", "+1 Food from every citizen", "May convert population into specialized laborers"]
+    "uniques": ["+30% Growth"]
   },
   {
     "name": "Raider Camp",
     "cost": 60,
     "maintenance": 1,
-    "uniques": ["+15% Production toward military units", "+10% pillage rewards in this city"]
-  },
-  {
-    "name": "Pleasure Dome",
-    "cost": 150,
-    "maintenance": 3,
-    "uniques": ["+4 Culture", "+3 Happiness", "Reduces unhappiness from domination policies"]
-  },
-  {
-    "name": "Enslavement Chamber",
-    "cost": 100,
-    "maintenance": 2,
-    "uniques": ["Enemy units defeated in this city are converted to Slave Laborers", "+5% Production from captured units"]
-  },
-  {
-    "name": "Grand Harem",
-    "cost": 200,
-    "maintenance": 4,
-    "uniques": ["+25% Growth and +10% Culture from population", "Unique national wonder for Wasteland Dominion"]
-  },
-  {
-    "name": "Central Breeding Complex",
-    "cost": 220,
-    "maintenance": 5,
-    "uniques": ["+40% Growth in all cities", "Produces elite specialist units", "Unique national wonder for Breeder Covenant"]
-  },
-  {
-    "name": "Raider Fortress",
-    "cost": 180,
-    "maintenance": 3,
-    "uniques": ["+30% Strength for units in this city", "+20% pillage reward empire-wide", "Unique national wonder for Iron Claws and Iron Reavers"]
-  },
-  {
-    "name": "Techno-Slaver Foundry",
-    "cost": 190,
-    "maintenance": 4,
-    "uniques": ["Robotic units +15% Strength", "+10% Production from Slave Laborers", "Unique national wonder for Mechanon-style play"]
+    "uniques": ["+15% Production toward military units"]
   }
 ]

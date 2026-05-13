@@ -2,46 +2,16 @@
   {
     "name": "Scavenging",
     "cost": 60,
-    "uniques": ["Unlocks Scavenger unit and Raider Camp improvement"]
+    "uniques": ["Unlocks Scavenger unit"]
   },
   {
     "name": "Raiding Tactics",
     "cost": 120,
-    "uniques": ["+25% pillage reward for all units", "Unlocks Raider unit and Raider I promotion"]
+    "uniques": ["+25% pillage reward for all units"]
   },
   {
     "name": "Domination",
     "cost": 200,
-    "uniques": ["+15% Strength when attacking cities", "Enables Enslavement Chamber and Tyranny policies"]
-  },
-  {
-    "name": "Breeding Programs",
-    "cost": 180,
-    "uniques": ["+30% Growth in all cities", "Unlocks Breeding Facility and Breeding Programs policy"]
-  },
-  {
-    "name": "Reclamation",
-    "cost": 300,
-    "uniques": ["+20% Production from all improved tiles", "May convert ruined or hostile terrain"]
-  },
-  {
-    "name": "Advanced Raiding",
-    "cost": 160,
-    "uniques": ["+15% Strength for Raider units", "Unlocks Wasteland Raider and Raider Fortress"]
-  },
-  {
-    "name": "Harem Management",
-    "cost": 220,
-    "uniques": ["+20% Growth and Culture from Pleasure Domes and Grand Harems", "Unlocks advanced happiness mechanics"]
-  },
-  {
-    "name": "Slave Training",
-    "cost": 250,
-    "uniques": ["+25% Production from Slave Laborers empire-wide", "Enables Slave Driver promotion and Labor Outpost"]
-  },
-  {
-    "name": "Transcendence",
-    "cost": 450,
-    "uniques": ["+30% to all yields empire-wide", "Unlocks late-game mega-structures and victory bonuses"]
+    "uniques": ["+15% Strength when attacking cities"]
   }
 ]

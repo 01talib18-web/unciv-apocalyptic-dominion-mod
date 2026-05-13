@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chieftain",
+    "baseHappiness": 15,
+    "aiAggressiveness": 0.5
+  },
+  {
+    "name": "Prince",
+    "baseHappiness": 10,
+    "aiAggressiveness": 1.0
+  },
+  {
+    "name": "King",
+    "baseHappiness": 5,
+    "aiAggressiveness": 1.5
+  },
+  {
+    "name": "Emperor",
+    "baseHappiness": 0,
+    "aiAggressiveness": 2.0
+  },
+  {
+    "name": "Deity",
+    "baseHappiness": -5,
+    "aiAggressiveness": 2.5
+  }
+]

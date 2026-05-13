@@ -1,8 +1,8 @@
 {
   "name": "Apocalyptic Dominion",
-  "author": "Grok Assisted for 01talib18-web",
-  "version": "1.0",
+  "author": "Grok Assisted",
+  "version": "1.1",
   "modOptions": {
-    "isBaseRuleset": false
+    "isBaseRuleset": true
   }
 }

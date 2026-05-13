@@ -4,16 +4,17 @@
     "leaderName": "Overlord Vex",
     "adjective": "Dominion",
     "color": ["#8B0000", "#FFD700"],
-    "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Outpost Zeta", "Forge Spire"],
+    "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Outpost Zeta", "Forge Spire", "Labor Nexus", "Reclamation Zone"],
     "startBias": ["Desert", "Plains"],
-    "uniques": [
-      "+25% Growth in all cities",
-      "Captured enemy workers provide double Production",
-      "May convert defeated military units into Slave Laborers",
-      "+15% Strength when attacking cities"
-    ],
-    "intro": "The old world burned. From its ashes, we rise through iron will and flesh. Join or serve.",
-    "declaringWar": "Your lands will fuel our breeding programs and labor pools. Resistance is futile.",
-    "attacked": "You challenge the Dominion? Your survivors will labor in our facilities."
+    "uniques": ["+25% Growth in all cities", "Captured enemy workers provide double Production", "May convert defeated military units into Slave Laborers", "+15% Strength when attacking cities"]
+  },
+  {
+    "name": "Iron Claws",
+    "leaderName": "Warlord Karg",
+    "adjective": "Claw",
+    "color": ["#4B0082", "#FF4500"],
+    "cityNames": ["Ruin Spire", "Mutant Den", "Pillage Camp", "Thrall Pit", "Blood Forge"],
+    "startBias": ["Tundra", "Hill"],
+    "uniques": ["+20% Strength when attacking", "Raiding yields double Gold and Food", "All units ignore enemy zone of control"]
   }
 ]

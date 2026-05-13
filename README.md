@@ -6,8 +6,10 @@ A detailed extension mod for Unciv introducing post-apocalyptic survival, raidin
 - New civilization: Wasteland Dominion with unique abilities focused on growth, captured labor, and combat advantages.
 - Custom units including raiders, enforcers, and specialized laborers.
 - Thematic buildings such as Slave Pens, Breeding Facilities, and Raider Camps providing unique yields and effects.
-- Additional policies reflecting domination, raiding, and population control strategies.
-- Flavor text and city names evoking a harsh, rebuilt world.
+- Expanded technology tree with Scavenging, Raiding Tactics, Domination, Breeding Programs, and Reclamation.
+- New policies reflecting tyranny, raiding, and population control strategies.
+- Unit promotions and tile improvements (Raider Camps, Labor Outposts).
+- Rich flavor text and city names evoking a harsh, rebuilt world.
 
 ## Installation
 1. In Unciv, go to Mods > Download mod from URL.

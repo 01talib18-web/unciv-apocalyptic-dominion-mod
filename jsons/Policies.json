@@ -13,5 +13,10 @@
     "name": "Raider Code",
     "uniques": ["+25% pillage reward", "Raiding units gain experience faster", "Reduces maintenance for military units"],
     "requiredPolicies": ["Tyranny Doctrine"]
+  },
+  {
+    "name": "Reclamation Mandate",
+    "uniques": ["+15% Production from all tiles", "May convert ruined terrain to productive land"],
+    "requiredPolicies": ["Tyranny Doctrine"]
   }
 ]

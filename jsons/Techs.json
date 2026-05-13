@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Scavenging",
+    "cost": 60,
+    "uniques": ["Unlocks Scavenger unit and Raider Camp improvement"]
+  },
+  {
+    "name": "Raiding Tactics",
+    "cost": 120,
+    "uniques": ["+25% pillage reward for all units", "Unlocks Raider unit"]
+  },
+  {
+    "name": "Domination",
+    "cost": 200,
+    "uniques": ["+15% Strength when attacking cities", "Enables Enslavement Chamber and Tyranny policies"]
+  },
+  {
+    "name": "Breeding Programs",
+    "cost": 180,
+    "uniques": ["+30% Growth in all cities", "Unlocks Breeding Facility"]
+  },
+  {
+    "name": "Reclamation",
+    "cost": 300,
+    "uniques": ["+20% Production from all improved tiles", "May convert ruined or hostile terrain"]
+  }
+]

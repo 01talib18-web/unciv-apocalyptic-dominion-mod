@@ -1,5 +1,26 @@
 [
-  {"name": "Raider Camp", "uniques": ["+2 Production", "+10% Defense for units on this tile", "May be built on plains or desert"]},
-  {"name": "Labor Outpost", "uniques": ["+3 Production from Slave Laborers working this tile", "+1 Food from adjacent tiles"]},
-  {"name": "Scavenger Pit", "uniques": ["+2 Food and +1 Production from scavenging ruined tiles", "May be built on any terrain"]}
+  {
+    "name": "Raider Camp",
+    "uniques": ["+2 Production", "+10% Defense for units on this tile", "May be built on plains or desert"]
+  },
+  {
+    "name": "Labor Outpost",
+    "uniques": ["+3 Production from Slave Laborers working this tile", "+1 Food from adjacent tiles"]
+  },
+  {
+    "name": "Breeding Pit",
+    "uniques": ["+4 Growth in this city", "May produce specialist units", "Requires Breeding Programs tech"]
+  },
+  {
+    "name": "Slave Quarry",
+    "uniques": ["+5 Production from Slave Laborers", "+2 Production from adjacent hills"]
+  },
+  {
+    "name": "Enforcer Watchtower",
+    "uniques": ["+15% Strength for friendly units within 2 tiles", "May capture enemy civilians in range"]
+  },
+  {
+    "name": "Reclamation Zone",
+    "uniques": ["+20% yield on all tiles in this city", "May convert ruined terrain", "Requires Reclamation tech"]
+  }
 ]

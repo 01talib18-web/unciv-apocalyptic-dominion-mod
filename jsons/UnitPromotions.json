@@ -1,7 +1,30 @@
 [
-  {"name": "Raider I", "uniques": ["+10% Strength", "+25% pillage reward"]},
-  {"name": "Raider II", "uniques": ["+15% Strength", "+40% pillage reward", "Can move after attacking"]},
-  {"name": "Enforcer Training", "uniques": ["+15% Strength vs wounded units", "May capture defeated enemies as Slave Laborers"]},
-  {"name": "Slave Driver", "uniques": ["+20% Production from Slave Laborers in this city", "Reduces unhappiness from labor policies"]},
-  {"name": "Harem Guard", "uniques": ["+15% Strength when defending cities", "+5% Happiness in this city from cultural buildings"]}
+  {
+    "name": "Raider I",
+    "uniques": ["+10% Strength", "+25% pillage reward"]
+  },
+  {
+    "name": "Raider II",
+    "uniques": ["+15% Strength", "+35% pillage reward", "Can pillage without stopping"]
+  },
+  {
+    "name": "Enforcer Training",
+    "uniques": ["+15% Strength vs wounded units", "May capture defeated enemies as Slave Laborers"]
+  },
+  {
+    "name": "Master Enforcer",
+    "uniques": ["+20% Strength vs wounded units", "+10% Production from captured units in this city"]
+  },
+  {
+    "name": "Slave Driver",
+    "uniques": ["+20% Production from Slave Laborers in this city", "Reduces unhappiness from labor policies"]
+  },
+  {
+    "name": "Breeding Specialist",
+    "uniques": ["+15% Growth in this city", "May convert population into elite specialists"]
+  },
+  {
+    "name": "Reaver Lord",
+    "uniques": ["+25% Strength in rough terrain", "Units heal by pillaging", "+10% Production from defeated units"]
+  }
 ]

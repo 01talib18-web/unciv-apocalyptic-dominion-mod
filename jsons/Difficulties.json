@@ -1,7 +1,7 @@
 [
-  {"name": "Chieftain", "baseHappiness": 15},
-  {"name": "Prince", "baseHappiness": 10},
-  {"name": "King", "baseHappiness": 5},
-  {"name": "Emperor", "baseHappiness": 0},
-  {"name": "Deity", "baseHappiness": -5}
+  {"name": "Chieftain"},
+  {"name": "Prince"},
+  {"name": "King"},
+  {"name": "Emperor"},
+  {"name": "Deity"}
 ]

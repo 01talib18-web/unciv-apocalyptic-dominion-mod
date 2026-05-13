@@ -6,6 +6,6 @@
     "color": ["#8B0000", "#FFD700"],
     "cityNames": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave"],
     "startBias": ["Desert", "Plains"],
-    "uniques": ["+25% Growth in all cities", "Captured enemy workers provide double Production", "May convert defeated military units into Slave Laborers"]
+    "uniques": ["+25% Growth in all cities", "+50% Production from captured workers"]
   }
 ]

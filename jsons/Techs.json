@@ -1,17 +1,11 @@
 [
   {
     "name": "Scavenging",
-    "cost": 60,
-    "uniques": ["Unlocks Scavenger unit"]
+    "cost": 60
   },
   {
     "name": "Raiding Tactics",
     "cost": 120,
     "uniques": ["+25% pillage reward for all units"]
-  },
-  {
-    "name": "Domination",
-    "cost": 200,
-    "uniques": ["+15% Strength when attacking cities"]
   }
 ]

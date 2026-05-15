@@ -1,30 +1,91 @@
 [
   {
     "name": "Scavenger",
-    "unitType": "Civilian",
-    "cost": 30,
-    "movement": 2
+    "unitType": "Scout",
+    "cost": 40,
+    "movement": 2,
+    "strength": 5,
+    "uniques": ["Ignores terrain cost"],
+    "requiredTech": "Scavenging"
   },
   {
     "name": "Raider",
-    "unitType": "Melee",
-    "cost": 40,
-    "strength": 18,
+    "unitType": "Warrior",
+    "cost": 60,
     "movement": 2,
-    "uniques": ["+50% pillage reward"]
+    "strength": 12,
+    "uniques": ["[+50%] pillage rewards", "Can capture workers"],
+    "requiredTech": "Raiding Tactics"
   },
   {
     "name": "Enforcer",
-    "unitType": "Melee",
-    "cost": 60,
-    "strength": 28,
-    "movement": 2
+    "unitType": "Swordman",
+    "cost": 80,
+    "movement": 2,
+    "strength": 18,
+    "uniques": ["[+20%] [Strength] vs [Slave Laborer] or captured units"],
+    "requiredTech": "Domination"
   },
   {
     "name": "Slave Laborer",
-    "unitType": "Civilian",
-    "cost": 25,
-    "movement": 1,
-    "uniques": ["+100% Production when working tiles"]
+    "unitType": "Worker",
+    "cost": 70,
+    "movement": 2,
+    "uniques": ["[+100%] [Production] when worked as specialist"],
+    "requiredTech": "Domination"
+  },
+  {
+    "name": "Slave Overseer",
+    "unitType": "Swordman",
+    "cost": 90,
+    "movement": 2,
+    "strength": 15,
+    "uniques": ["Nearby [Slave Laborer] units gain [+50%] [Production]"],
+    "requiredTech": "Slave Training"
+  },
+  {
+    "name": "Raider Captain",
+    "unitType": "Swordman",
+    "cost": 110,
+    "movement": 2,
+    "strength": 22,
+    "uniques": ["[+30%] [Strength] when pillaging", "Can capture cities with reduced strength"],
+    "requiredTech": "Raiding Tactics"
+  },
+  {
+    "name": "Breeding Guardian",
+    "unitType": "Infantry",
+    "cost": 130,
+    "movement": 2,
+    "strength": 20,
+    "uniques": ["[+25%] [Strength] when defending cities with [Breeding Facility]"],
+    "requiredTech": "Breeding Programs"
+  },
+  {
+    "name": "Mobile Fortress",
+    "unitType": "Tank",
+    "cost": 300,
+    "movement": 3,
+    "strength": 45,
+    "uniques": ["Can carry 2 units", "Provides defensive bonus to nearby tiles"],
+    "requiredTech": "Reclamation"
+  },
+  {
+    "name": "Drone Swarm",
+    "unitType": "Fighter",
+    "cost": 150,
+    "movement": 4,
+    "strength": 25,
+    "uniques": ["Air unit", "Can perform reconnaissance"],
+    "requiredTech": "Transcendence"
+  },
+  {
+    "name": "Legendary Enforcer",
+    "unitType": "Infantry",
+    "cost": 250,
+    "movement": 2,
+    "strength": 55,
+    "uniques": ["Hero unit", "[+30%] [Strength] in friendly territory", "Immune to capture"],
+    "requiredTech": "Domination"
   }
 ]

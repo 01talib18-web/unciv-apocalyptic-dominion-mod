@@ -87,5 +87,23 @@
     "strength": 55,
     "uniques": ["Hero unit", "[+30%] [Strength] in friendly territory", "Immune to capture"],
     "requiredTech": "Domination"
+  },
+  {
+    "name": "Wasteland Sniper",
+    "unitType": "Archery",
+    "cost": 95,
+    "movement": 2,
+    "strength": 16,
+    "uniques": ["[+30%] [Strength] when attacking from rough terrain"],
+    "requiredTech": "Raiding Tactics"
+  },
+  {
+    "name": "Covenant Zealot",
+    "unitType": "Infantry",
+    "cost": 140,
+    "movement": 2,
+    "strength": 24,
+    "uniques": ["[+15%] [Strength] near [Breeding Facility] tiles"],
+    "requiredTech": "Breeding Programs"
   }
 ]

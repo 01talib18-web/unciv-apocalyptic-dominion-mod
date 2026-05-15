@@ -40,5 +40,17 @@
     "cost": 350,
     "maintenance": 6,
     "uniques": ["[+50%] [Growth] in this city", "Global +10% population growth"]
+  },
+  {
+    "name": "Reclamation Hub",
+    "cost": 180,
+    "maintenance": 3,
+    "uniques": ["[+20%] [Production] when constructing buildings"]
+  },
+  {
+    "name": "Dominion Citadel",
+    "cost": 400,
+    "maintenance": 8,
+    "uniques": ["[+15%] [Strength] in this city", "Reduces unhappiness from tyranny policies"]
   }
 ]

@@ -90,7 +90,7 @@
   },
   {
     "name": "Wasteland Sniper",
-    "unitType": "Archery",
+    "unitType": "Ranged",
     "cost": 95,
     "movement": 2,
     "strength": 16,

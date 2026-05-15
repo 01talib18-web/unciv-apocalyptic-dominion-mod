@@ -8,6 +8,10 @@
     "cityList": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Wasteland Bastion", "Iron Citadel"],
     "outerColor": [139, 0, 0],
     "innerColor": [255, 215, 0],
+    "startIntroPart1": "The old world burned. We rose from its ashes stronger than before.",
+    "declaringWar": "Kneel or be broken. There is no third path.",
+    "defeated": "Even in defeat, the Dominion endures...",
+    "introduction": "I am Overlord Vex. Submit to the Dominion or be swept away.",
     "uniques": ["[+25%] [Growth] in all cities", "[+50%] [Production] from captured [Worker] units", "Upon capturing a city, gain [2] [Slave Laborer] units"]
   },
   {
@@ -19,6 +23,7 @@
     "cityList": ["The Compound", "Raider Haven", "Slave Market", "Breeding Pit", "Ashen Throne", "Enclave", "Wasteland Bastion", "Iron Citadel"],
     "outerColor": [139, 0, 0],
     "innerColor": [255, 215, 0],
+    "startIntroPart1": "Life finds a way, even in the wasteland. We simply guide it.",
     "uniques": ["[+35%] [Growth] in all cities", "[+1] [Population] when founding a new city"]
   },
   {
@@ -30,6 +35,8 @@
     "cityList": ["Bloodfang Outpost", "Ravager Den", "Skull Crag", "Warlord's Keep", "Ironfang Lair"],
     "outerColor": [75, 0, 130],
     "innerColor": [255, 69, 0],
+    "declaringWar": "Your lands will burn. Your people will serve.",
+    "defeated": "The Claws... will rise again...",
     "uniques": ["[+30%] [Strength] for units attacking cities", "[+50%] pillage rewards", "All military units start with the [Shock I] promotion"]
   },
   {
@@ -41,6 +48,7 @@
     "cityList": ["Fertile Enclave", "Brood Mother Hive", "Genesis Vault", "Population Spire"],
     "outerColor": [255, 105, 180],
     "innerColor": [0, 255, 127],
+    "startIntroPart1": "In the ashes, we plant the seeds of tomorrow.",
     "uniques": ["[+50%] [Growth] in all cities", "Breeding Facilities provide double bonuses", "[+20%] [Food] from [Farm] tiles"]
   },
   {
@@ -52,6 +60,7 @@
     "cityList": ["Cannibal Forge", "Reaver Stronghold", "Flesh Harvest", "Ashen Raiders"],
     "outerColor": [220, 20, 60],
     "innerColor": [0, 0, 0],
+    "declaringWar": "Your flesh will feed our forges.",
     "uniques": ["[+40%] [Production] toward military units from pillaging", "Units gain strength from defeated enemies", "[+25%] pillage rewards"]
   }
 ]

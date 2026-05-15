@@ -8,6 +8,10 @@
     "uniques": ["+15% Strength", "+35% pillage reward", "Can pillage without stopping"]
   },
   {
+    "name": "Raider III - Pillager Lord",
+    "uniques": ["+20% Strength", "+50% pillage reward", "Units heal when pillaging"]
+  },
+  {
     "name": "Enforcer Training",
     "uniques": ["+15% Strength vs wounded units", "May capture defeated enemies as Slave Laborers"]
   },
@@ -26,5 +30,21 @@
   {
     "name": "Reaver Lord",
     "uniques": ["+25% Strength in rough terrain", "Units heal by pillaging", "+10% Production from defeated units"]
+  },
+  {
+    "name": "Laborer I - Efficient Worker",
+    "uniques": ["+15% Production when working as specialist"]
+  },
+  {
+    "name": "Laborer II - Overseer Assistant",
+    "uniques": ["Nearby Slave Laborers gain +10% Production", "Reduces maintenance cost of labor buildings"]
+  },
+  {
+    "name": "Dominance I - Intimidation",
+    "uniques": ["+10% Strength when attacking cities"]
+  },
+  {
+    "name": "Dominance II - Iron Will",
+    "uniques": ["+20% Strength when attacking cities", "Immune to first attack each turn"]
   }
 ]

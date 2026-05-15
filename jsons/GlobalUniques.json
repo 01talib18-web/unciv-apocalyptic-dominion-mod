@@ -1,1 +1,7 @@
-{"uniques": []}
+{
+  "uniques": [
+    "[+10%] [Production] from all sources when at war",
+    "Cities with [Slave Laborer] specialists gain [+5%] [Happiness]",
+    "[-5%] [Happiness] for every city without a [Raider Camp] or defensive improvement"
+  ]
+}

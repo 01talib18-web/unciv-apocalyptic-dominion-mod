@@ -1,11 +1,71 @@
 [
   {
     "name": "Scavenging",
-    "cost": 60
+    "cost": 20,
+    "quote": "In the ashes of the old world, we learn to pick through the ruins."
   },
   {
     "name": "Raiding Tactics",
+    "cost": 40,
+    "quote": "Strike fast, take what you need, leave nothing behind.",
+    "uniques": ["Unlocks Raider units"]
+  },
+  {
+    "name": "Domination",
+    "cost": 60,
+    "quote": "Power is taken, never given.",
+    "uniques": ["Unlocks Enforcer and Slave Laborer units"]
+  },
+  {
+    "name": "Breeding Programs",
+    "cost": 80,
+    "quote": "Survival demands growth. Controlled growth demands discipline.",
+    "uniques": ["Unlocks Breeding Facility and related buildings"]
+  },
+  {
+    "name": "Slave Training",
+    "cost": 70,
+    "quote": "A broken will is more useful than a broken body.",
+    "uniques": ["Unlocks Slave Overseer"]
+  },
+  {
+    "name": "Harem Management",
+    "cost": 90,
+    "quote": "Order among the favored ensures loyalty and legacy."
+  },
+  {
+    "name": "Tyranny Doctrine",
+    "cost": 100,
+    "quote": "Fear is the foundation of order."
+  },
+  {
+    "name": "Reclamation",
     "cost": 120,
-    "uniques": ["+25% pillage reward for all units"]
+    "quote": "From the wasteland, we will build something greater."
+  },
+  {
+    "name": "Mobile Warfare",
+    "cost": 110,
+    "quote": "Speed and armor decide battles now."
+  },
+  {
+    "name": "Drone Warfare",
+    "cost": 140,
+    "quote": "The skies belong to those who control the machines."
+  },
+  {
+    "name": "Advanced Breeding",
+    "cost": 130,
+    "quote": "Population is our greatest weapon and our greatest burden."
+  },
+  {
+    "name": "Centralized Control",
+    "cost": 150,
+    "quote": "One will. One purpose. One Dominion."
+  },
+  {
+    "name": "Transcendence",
+    "cost": 200,
+    "quote": "We are no longer survivors. We are the future."
   }
 ]

@@ -1,7 +1,34 @@
 [
   {
     "name": "Tyranny Doctrine",
-    "uniques": ["+15% Production toward military units"],
-    "requiredPolicies": ["Oligarchy"]
+    "uniques": ["[-15%] [Happiness] but [+30%] [Production] from slaves", "Unlocks Enslavement Chamber"]
+  },
+  {
+    "name": "Breeding Programs",
+    "uniques": ["[+25%] [Growth] in all cities", "Breeding buildings provide extra bonuses"]
+  },
+  {
+    "name": "Raider Code",
+    "uniques": ["[+40%] pillage rewards", "Raider units gain extra movement"]
+  },
+  {
+    "name": "Reclamation Mandate",
+    "uniques": ["[+20%] [Production] when constructing buildings in reclaimed cities"]
+  },
+  {
+    "name": "Harem Management",
+    "uniques": ["[+3 Happiness]", "[+15%] [Culture] from harem-related buildings"]
+  },
+  {
+    "name": "Slave Training",
+    "uniques": ["Slave Laborers provide additional [Production]", "Reduces happiness penalty from slaves"]
+  },
+  {
+    "name": "Domination Focus",
+    "uniques": ["[+15%] [Strength] for all military units", "Unlocks advanced enforcer promotions"]
+  },
+  {
+    "name": "Sustainable Growth",
+    "uniques": ["Reduces negative effects of overpopulation", "[+10%] [Food] from all sources"]
   }
 ]

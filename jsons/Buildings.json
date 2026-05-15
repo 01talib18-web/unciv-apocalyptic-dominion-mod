@@ -3,18 +3,42 @@
     "name": "Slave Pen",
     "cost": 80,
     "maintenance": 1,
-    "uniques": ["+2 Production from every 2 citizens"]
+    "uniques": ["[+2 Production] from every 2 citizens"]
   },
   {
     "name": "Breeding Facility",
     "cost": 120,
     "maintenance": 2,
-    "uniques": ["+30% Growth"]
+    "uniques": ["[+30%] [Growth]"]
   },
   {
     "name": "Raider Camp",
     "cost": 60,
     "maintenance": 1,
-    "uniques": ["+15% Production toward military units"]
+    "uniques": ["[+15%] [Production] toward military units"]
+  },
+  {
+    "name": "Pleasure Dome",
+    "cost": 150,
+    "maintenance": 3,
+    "uniques": ["[+3 Happiness]", "[+20%] [Culture]"]
+  },
+  {
+    "name": "Enslavement Chamber",
+    "cost": 100,
+    "maintenance": 2,
+    "uniques": ["[-10%] [Happiness] but [+25%] [Production] from slaves"]
+  },
+  {
+    "name": "Grand Harem",
+    "cost": 200,
+    "maintenance": 4,
+    "uniques": ["[+4 Happiness]", "[+25%] [Growth] from breeding programs"]
+  },
+  {
+    "name": "Central Breeding Complex",
+    "cost": 350,
+    "maintenance": 6,
+    "uniques": ["[+50%] [Growth] in this city", "Global +10% population growth"]
   }
 ]
